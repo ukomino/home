@@ -1,0 +1,112 @@
+/* Code tidied up by ScrapBook */
+@keyframes lb-expand {
+0% { max-height: 0px; }
+100% { max-height: 1000px; }
+}
+@keyframes lb-expand {
+0% { max-height: 0px; }
+100% { max-height: 1000px; }
+}
+@media screen and (min-width: 0px) and (min-resolution: 0.001dpcm) {
+}
+@keyframes luigi-ac-expand {
+0% { max-height: 0px; }
+100% { max-height: 1000px; }
+}
+@keyframes luigi-ac-expand {
+0% { max-height: 0px; }
+100% { max-height: 1000px; }
+}
+@media screen and (min-width: 0px) and (min-resolution: 0.001dpcm) {
+}
+@media screen and (min-width: 0px) and (min-resolution: 0.001dpcm) {
+}
+@media (max-width: 991px) {
+}
+@media (min-width: 576px) and (max-width: 991px) {
+}
+@media (max-width: 1100px) {
+}
+@media (min-width: 576px) {
+}
+@media (min-width: 992px) {
+}
+.luigi-ac-hero { position: absolute; display: none; margin: 0px auto; padding: 15px 10px; width: 100%; z-index: 16777271; overflow: visible; }
+@media (max-width: 1020px) {
+}
+@media (min-width: 1021px) {
+}
+@media (max-width: 1020px) {
+}
+@media (min-width: 1021px) {
+}
+.luigi-ac-hero, .luigi-ac-hero * { box-sizing: border-box !important; }
+.luigi-ac-hero:empty { display: none !important; }
+@media (min-width: 1020px) {
+}
+@media screen and (min-width: 1021px) {
+}
+@media screen and (min-width: 1021px) {
+}
+@media screen and (min-width: 1021px) {
+}
+@media screen and (min-width: 1021px) {
+}
+@media (max-width: 1020px) {
+}
+@media screen and (min-width: 1021px) {
+}
+@media screen and (min-width: 1021px) {
+}
+@media screen and (min-width: 1021px) {
+}
+@media screen and (max-width: 1020px) {
+}
+@media screen and (min-width: 1021px) {
+}
+@media screen and (min-width: 1021px) {
+}
+@media screen and (min-width: 1021px) {
+}
+@media screen and (min-width: 1021px) {
+}
+@media screen and (min-width: 0px) and (min-resolution: 0.001dpcm) {
+}
+@media screen and (min-width: 1021px) {
+}
+@media screen and (max-width: 1020px) {
+}
+@media screen and (min-width: 1021px) {
+}
+@media screen and (min-width: 1021px) {
+}
+@media screen and (max-width: 1020px) {
+}
+@media screen and (min-width: 1021px) {
+}
+@media screen and (max-width: 1020px) {
+}
+@media (max-width: 1020px) and (min-width: 376px) {
+  .luigi-ac-hero { width: 375px; }
+}
+@media (max-width: 375px) {
+  .luigi-ac-hero { width: 100%; }
+}
+@media (max-width: 360px) {
+}
+@media (max-width: 1020px) {
+}
+@media (min-width: 1021px) {
+  .luigi-ac-hero { padding: 15px 30px; }
+}
+@media screen and (max-width: 1020px) {
+}
+@media screen and (max-width: 1020px) {
+}
+@media screen and (min-width: 1021px) {
+}
+.luigi-ac { color: rgb(10, 0, 74); }
+@media (max-width: 415px) {
+}
+@media (min-width: 1021px) {
+}

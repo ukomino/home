@@ -1,0 +1,12 @@
+/* Code tidied up by ScrapBook */
+html { touch-action: manipulation; }
+body { background: rgb(255, 255, 255) none repeat scroll 0% 0%; color: rgb(28, 30, 33); direction: ltr; line-height: 1.34; margin: 0px; padding: 0px; unicode-bidi: embed; }
+body, button, input, label, select, td, textarea { font-family: Helvetica,Arial,sans-serif; font-size: 12px; }
+a { color: rgb(56, 88, 152); cursor: pointer; text-decoration: none; }
+a:hover { text-decoration: underline; }
+img { border: 0px none; }
+._li._li._li { overflow: initial; }
+.pluginFontHelvetica, .pluginFontHelvetica button, .pluginFontHelvetica input, .pluginFontHelvetica label, .pluginFontHelvetica select, .pluginFontHelvetica td, .pluginFontHelvetica textarea { font-family: Helvetica,Arial,sans-serif; }
+body.plugin { background: transparent none repeat scroll 0% 0%; font-family: Helvetica,Arial,sans-serif; line-height: 1.28; overflow: hidden; -moz-text-size-adjust: none; }
+.plugin, .plugin button, .plugin input, .plugin label, .plugin select, .plugin td, .plugin textarea { font-size: 11px; }
+._50f7 { font-weight: 600; }

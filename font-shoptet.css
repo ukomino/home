@@ -1,0 +1,7 @@
+/* Code tidied up by ScrapBook */
+@font-face {
+  font-family: "shoptet";
+  font-style: normal;
+  font-weight: normal;
+  src: url("shoptet.ttf") format("truetype"), url("shoptet.woff") format("woff"), url("shoptet.svg") format("svg");
+}

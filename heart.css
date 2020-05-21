@@ -1,0 +1,7 @@
+/* Code tidied up by ScrapBook */
+@font-face {
+  font-family: "heart";
+  font-style: normal;
+  font-weight: normal;
+  src: url("heart.eot") format("embedded-opentype"), url("heart.ttf") format("truetype"), url("heart.woff") format("woff"), url("heart.svg") format("svg");
+}

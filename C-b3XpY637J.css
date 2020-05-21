@@ -1,0 +1,8 @@
+/* Code tidied up by ScrapBook */
+@supports (-ms-ime-align: auto) {
+  ._3eqz ._44ae ._6m3 { flex: 1 1 0%; max-width: 95%; width: 45%; }
+}
+.UFIMentionsInputWrap, .UFICommentContainer, .UFIInputContainer { position: relative; }
+.UFICommentAttachmentButtons { bottom: 0px; height: 24px; position: absolute; right: 0px; }
+._2pi3 { padding-bottom: 8px; padding-top: 8px; }
+._2pi8 { padding-left: 8px; padding-right: 8px; }
