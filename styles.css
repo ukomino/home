@@ -1,0 +1,49 @@
+/* Code tidied up by ScrapBook */
+@media (min-width: 1200px) {
+}
+@media (max-width: 1199px) {
+}
+@media (max-width: 992px) {
+  .navigation-home-icon-wrapper::before { content: ""; }
+  #navigation-first { display: none; }
+  .breadcrumbs > span:last-child { display: none; }
+  .breadcrumbs { display: flex; margin-left: -20px; margin-right: -20px; border-bottom-style: solid; border-bottom-width: 1px; }
+  .breadcrumbs > span { align-self: center; }
+  .breadcrumbs > span > a, .breadcrumbs > span > span { padding: 10px; }
+  .breadcrumbs > span > a { position: relative; display: block; }
+  .breadcrumbs > span > a::before { content: " "; position: absolute; right: 0px; width: 1px; height: 70%; top: 15%; }
+}
+@media (max-width: 767px) {
+}
+@media (max-width: 480px) {
+  .top-navigation-bar .dropdown { left: 60px; }
+  .top-navigation-bar .dropdown .dropdown-menu { left: auto; right: auto; }
+}
+a span { text-transform: none !important; }
+div a { text-transform: none !important; }
+h1 { text-transform: none !important; }
+li a { text-transform: none !important; }
+#navigation > div > ul > li > a > b { font-weight: 600; font-size: 15px; }
+.top-navigation-contacts { font-size: 15px; }
+.top-navigation-tools { font-size: 15px; }
+.top-navigation-bar { min-height: 45px; display: flex; align-items: center; }
+.top-navigation-contacts { font-size: 15px; font-weight: bold; }
+.top-navigation-contacts a { color: rgb(44, 135, 89); }
+.cart-price { font-weight: bold; }
+@media (max-width: 768px) {
+  #navigation > div > ul > li:nth-child(1) > * :not(:hover) { color: white; }
+}
+#footer { background-color: rgb(38, 116, 76); position: relative; overflow: hidden; }
+#footer::before { content: ""; position: absolute; width: 100%; height: 150%; left: 30%; top: 20%; background: rgba(0, 0, 0, 0) url("pattern-zahrada-newhomepage.png") repeat scroll 0% 0%; transform: scale(0.6) rotate(-20deg); }
+#footer > .container { background-color: transparent; color: white; }
+#footer h4 { color: white; font-weight: bold; }
+#footer ul a, #footer .contact-box a { color: white; }
+#footer ul a:hover, #footer .contact-box a:hover { color: rgb(240, 136, 4); }
+#footer .site-name { display: none; }
+.custom-footer { padding-left: 0px; border: medium none; }
+#facebookWidget > a { margin-right: 10px; }
+@media (min-width: 768px) {
+}
+@media (max-width: 768px) {
+  .banner { min-height: 120px; margin-bottom: 0px; }
+}
